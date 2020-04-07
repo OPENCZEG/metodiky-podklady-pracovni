@@ -1,0 +1,2 @@
+# Jak nasazovat otevřená řešení?
+

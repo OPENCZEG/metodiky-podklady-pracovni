@@ -1,0 +1,1 @@
+# Legislativní a architektonický rámec pro využívání opensource ve veřejné správě
